@@ -12,6 +12,9 @@
 <h2> About Repository </h2>
 <p align="justify"> This repository is specifically designated for the advancement of machine learning. It serves as a storage space for datasets, models, and all elements pertinent to the field of machine learning. </p>
 
+<h2> Machine Learning Development Documentation </h2>
+The project is based from Google Colab (due to limited system requirements of our laptop/PC). Using Machine Learning with Tensorflow as framework to Classify the skin disease.
+
 <h2> Model </h2>
 <p align="justify"> We utilize a Sequential model with 3 layers as the model structure. Here is a summary of the model. </p>
 <div align="center">
