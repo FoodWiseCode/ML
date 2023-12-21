@@ -13,8 +13,10 @@
 <p align="justify"> This repository is specifically designated for the advancement of machine learning. It serves as a storage space for datasets, models, and all elements pertinent to the field of machine learning. </p>
 
 <h2> Model </h2>
-<p align="justify"> We utilize a Sequential model with 3 layers as the model structure. Here is a summary oh the model. </p>
+<p align="justify"> We utilize a Sequential model with 3 layers as the model structure. Here is a summary of the model. </p>
 <div align="center">
     <img src="https://github.com/FoodWiseCode/ML/assets/67790978/c6dff636-b372-423d-bcf4-b0d86489abfc" width = "350" height = "350">
 </div>
+<p align="justify"> You can get it at this link. </p>
+<a href="https://drive.google.com/file/d/13SEpQI31jKWcnqwvKg53t8n_N_KgHoEB/view?usp=sharing"> FoodWise Model </a>
              
